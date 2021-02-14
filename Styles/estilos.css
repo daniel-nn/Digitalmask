@@ -1,0 +1,21 @@
+.parrafo {
+    text-align: justify;
+    font-size: 20px;
+   color: rgb(0, 0, 0);
+   font-family: 'Noto Sans JP', sans-serif;
+}   
+
+.titulo {
+ 
+color: rgb(255, 0, 0);
+
+}
+
+.iconos {
+color:white;
+}
+
+.fondop {
+
+    background-color: darkslategrey;
+}
